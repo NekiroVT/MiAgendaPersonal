@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="toolbar_bg">#6463E0</color>   <!-- fondo de la toolbar -->
+    <color name="toolbar_fg">#FFFFFF</color>   <!-- título e íconos -->
+</resources>
